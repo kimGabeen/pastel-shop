@@ -202,11 +202,11 @@ navigate("/cart");`}
           <tbody>
             <tr>
               <th>GitHub 저장소</th>
-              <td>https://github.com/__________________</td>
+              <td>https://github.com/kimGabeen/pastel-shop</td>
             </tr>
             <tr>
               <th>배포 도메인</th>
-              <td>https://__________________.vercel.app</td>
+              <td>https://pastel-shop-zeta.vercel.app</td>
             </tr>
           </tbody>
         </table>
